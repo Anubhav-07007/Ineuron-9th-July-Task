@@ -1,0 +1,454 @@
+2022-07-26 15:33:49,964 root INFO Create a Function to print the Data Science Course  
+2022-07-26 15:33:49,966 root INFO create a function to print all the course available in Big Data  
+2022-07-26 15:33:49,966 root INFO ['Big Data Master', 'Big Data on Cloud']  
+2022-07-26 15:33:49,966 root INFO ['Big Data Master', 'Big Data on Cloud']  
+2022-07-26 15:33:49,967 root INFO Create a function to print all the course avaiable in Data Analytics tab  
+2022-07-26 15:33:49,967 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']  
+2022-07-26 15:33:49,967 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']  
+2022-07-26 15:33:49,968 root INFO We create a function to print the course available in Programming Tab  
+2022-07-26 15:33:49,968 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']  
+2022-07-26 15:33:49,968 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']  
+2022-07-26 15:33:49,968 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:33:49,968 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:33:49,968 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:33:49,969 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:33:49,969 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:33:49,969 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:33:49,969 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:33:49,969 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:33:49,970 root INFO Print the course details in One Neuron  
+2022-07-26 15:33:49,970 root INFO Print the course & Price Details in Tech Neuron  
+2022-07-26 15:33:49,970 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x000001FFB869E0D0>>  
+2022-07-26 15:33:49,970 root INFO The Tech couse is Tech Neuron and price is 25000  
+2022-07-26 15:33:49,970 root INFO Tech Neuron  
+2022-07-26 15:33:49,971 root INFO Print the avaiable job in job portal  
+2022-07-26 15:33:49,971 root INFO Print the Job details   
+2022-07-26 15:33:49,971 root INFO None  
+2022-07-26 15:33:49,974 root INFO Print the internship course  
+2022-07-26 15:33:49,974 root INFO list5  
+2022-07-26 15:33:49,974 root INFO ['python', 'ML', 'DL', 'CV']  
+2022-07-26 15:33:49,976 root INFO check the successfully story on hall of fame  
+2022-07-26 15:33:49,976 root INFO Read the blog  
+2022-07-26 15:33:49,976 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile  
+2022-07-26 15:33:49,976 root INFO None  
+2022-07-26 15:33:49,976 root INFO Read the blog on our website  
+2022-07-26 15:33:49,977 root INFO None  
+2022-07-26 15:33:49,978 root INFO Become a affiliate  
+2022-07-26 15:33:49,978 root INFO Attain Financial freedom and joining the affiliate program.  
+2022-07-26 15:33:49,978 root INFO None  
+2022-07-26 15:33:49,978 root INFO Create a function to print the company name.  
+2022-07-26 15:33:49,978 root INFO ('The company name is', 'Ineuron')  
+2022-07-26 15:33:49,978 root INFO Create a function to print the contact details of company.  
+2022-07-26 15:33:49,979 root INFO ('You can reach out to us', ['17th floor Tower A, Brigade Signature Towers, Sannatammanahalli, Bengaluru, Karnataka 562129.', '+91 87885-03778', 'contact@ineuron.ai'])  
+2022-07-26 15:33:49,979 root INFO Create a function to read about the company.  
+2022-07-26 15:33:49,979 root INFO ('Read about us', 'iNeuron started as a product development company, then launched its ed-tech division. We provide 360 degree solutions from learning to internship to finding a job, and the first ever educational OTT platform to upgrade your skill set.')  
+2022-07-26 15:36:22,844 root INFO Create a Function to print the Data Science Course  
+2022-07-26 15:36:22,845 root INFO create a function to print all the course available in Big Data  
+2022-07-26 15:36:22,845 root INFO ['Big Data Master', 'Big Data on Cloud']  
+2022-07-26 15:36:22,845 root INFO ['Big Data Master', 'Big Data on Cloud']  
+2022-07-26 15:36:22,846 root INFO Create a function to print all the course avaiable in Data Analytics tab  
+2022-07-26 15:36:22,846 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']  
+2022-07-26 15:36:22,846 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']  
+2022-07-26 15:36:22,847 root INFO We create a function to print the course available in Programming Tab  
+2022-07-26 15:36:22,847 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']  
+2022-07-26 15:36:22,847 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']  
+2022-07-26 15:36:22,848 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:36:22,848 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:36:22,848 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:36:22,848 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:36:22,848 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:36:22,848 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:36:22,848 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:36:22,849 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:36:22,850 root INFO Print the course details in One Neuron  
+2022-07-26 15:36:22,850 root INFO Print the course & Price Details in Tech Neuron  
+2022-07-26 15:36:22,850 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x0000019EDA32E0D0>>  
+2022-07-26 15:36:22,850 root INFO The Tech couse is Tech Neuron and price is 25000  
+2022-07-26 15:36:22,850 root INFO Tech Neuron  
+2022-07-26 15:36:22,851 root INFO Print the avaiable job in job portal  
+2022-07-26 15:36:22,851 root INFO Print the Job details   
+2022-07-26 15:36:22,851 root INFO None  
+2022-07-26 15:36:22,852 root INFO Print the internship course  
+2022-07-26 15:36:22,852 root INFO list5  
+2022-07-26 15:36:22,852 root INFO ['python', 'ML', 'DL', 'CV']  
+2022-07-26 15:36:22,853 root INFO check the successfully story on hall of fame  
+2022-07-26 15:36:22,853 root INFO Read the blog  
+2022-07-26 15:36:22,853 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile  
+2022-07-26 15:36:22,853 root INFO None  
+2022-07-26 15:36:22,853 root INFO Read the blog on our website  
+2022-07-26 15:36:22,853 root INFO None  
+2022-07-26 15:36:22,854 root INFO Become a affiliate  
+2022-07-26 15:36:22,854 root INFO Attain Financial freedom and joining the affiliate program.  
+2022-07-26 15:36:22,854 root INFO None  
+2022-07-26 15:36:22,854 root INFO Create a function to print the company name.  
+2022-07-26 15:36:22,855 root INFO ('The company name is', 'Ineuron')  
+2022-07-26 15:36:22,855 root INFO Create a function to print the contact details of company.  
+2022-07-26 15:36:22,855 root INFO ('You can reach out to us', ['17th floor Tower A, Brigade Signature Towers, Sannatammanahalli, Bengaluru, Karnataka 562129.', '+91 87885-03778', 'contact@ineuron.ai'])  
+2022-07-26 15:36:22,855 root INFO Create a function to read about the company.  
+2022-07-26 15:36:22,855 root INFO ('Read about us', 'iNeuron started as a product development company, then launched its ed-tech division. We provide 360 degree solutions from learning to internship to finding a job, and the first ever educational OTT platform to upgrade your skill set.')  
+2022-07-26 15:39:22,251 root INFO Create a Function to print the Data Science Course  
+2022-07-26 15:39:22,253 root INFO create a function to print all the course available in Big Data  
+2022-07-26 15:39:22,253 root INFO ['Big Data Master', 'Big Data on Cloud']  
+2022-07-26 15:39:22,253 root INFO ['Big Data Master', 'Big Data on Cloud']  
+2022-07-26 15:39:22,255 root INFO Create a function to print all the course avaiable in Data Analytics tab  
+2022-07-26 15:39:22,255 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']  
+2022-07-26 15:39:22,255 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']  
+2022-07-26 15:39:22,256 root INFO We create a function to print the course available in Programming Tab  
+2022-07-26 15:39:22,256 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']  
+2022-07-26 15:39:22,256 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']  
+2022-07-26 15:39:22,256 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:39:22,256 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:39:22,256 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:39:22,256 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:39:22,257 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:39:22,257 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:39:22,257 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:39:22,257 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:39:22,258 root INFO Print the course details in One Neuron  
+2022-07-26 15:39:22,258 root INFO Print the course & Price Details in Tech Neuron  
+2022-07-26 15:39:22,258 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x0000028B92B95850>>  
+2022-07-26 15:39:22,258 root INFO The Tech couse is Tech Neuron and price is 25000  
+2022-07-26 15:39:22,258 root INFO Tech Neuron  
+2022-07-26 15:39:22,259 root INFO Print the avaiable job in job portal  
+2022-07-26 15:39:22,259 root INFO Print the Job details   
+2022-07-26 15:39:22,259 root INFO None  
+2022-07-26 15:39:22,260 root INFO Print the internship course  
+2022-07-26 15:39:22,260 root INFO list5  
+2022-07-26 15:39:22,260 root INFO ['python', 'ML', 'DL', 'CV']  
+2022-07-26 15:39:22,261 root INFO check the successfully story on hall of fame  
+2022-07-26 15:39:22,261 root INFO Read the blog  
+2022-07-26 15:39:22,262 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile  
+2022-07-26 15:39:22,262 root INFO None  
+2022-07-26 15:39:22,262 root INFO Read the blog on our website  
+2022-07-26 15:39:22,262 root INFO None  
+2022-07-26 15:39:22,263 root INFO Become a affiliate  
+2022-07-26 15:39:22,263 root INFO Attain Financial freedom and joining the affiliate program.  
+2022-07-26 15:39:22,263 root INFO None  
+2022-07-26 15:39:22,263 root INFO Create a function to print the company name.  
+2022-07-26 15:39:22,264 root INFO ('The company name is', 'Ineuron')  
+2022-07-26 15:39:22,264 root INFO Create a function to print the contact details of company.  
+2022-07-26 15:39:22,264 root INFO ('You can reach out to us', ['17th floor Tower A, Brigade Signature Towers, Sannatammanahalli, Bengaluru, Karnataka 562129.', '+91 87885-03778', 'contact@ineuron.ai'])  
+2022-07-26 15:39:22,264 root INFO Create a function to read about the company.  
+2022-07-26 15:39:22,264 root INFO ('Read about us', 'iNeuron started as a product development company, then launched its ed-tech division. We provide 360 degree solutions from learning to internship to finding a job, and the first ever educational OTT platform to upgrade your skill set.')  
+2022-07-26 15:39:22,264 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:39:22,264 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:39:22,264 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:39:22,264 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:39:22,264 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:39:22,264 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:39:22,264 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:39:22,265 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:39:22,265 root INFO Read the blog on our website  
+2022-07-26 15:39:22,265 root INFO None  
+2022-07-26 15:39:22,265 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile  
+2022-07-26 15:39:22,265 root INFO None  
+2022-07-26 15:39:22,265 root INFO list5  
+2022-07-26 15:39:22,265 root INFO ['python', 'ML', 'DL', 'CV']  
+2022-07-26 15:42:43,084 root INFO Create a Function to print the Data Science Course  
+2022-07-26 15:42:43,085 root INFO create a function to print all the course available in Big Data  
+2022-07-26 15:42:43,085 root INFO ['Big Data Master', 'Big Data on Cloud']  
+2022-07-26 15:42:43,085 root INFO ['Big Data Master', 'Big Data on Cloud']  
+2022-07-26 15:42:43,086 root INFO Create a function to print all the course avaiable in Data Analytics tab  
+2022-07-26 15:42:43,086 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']  
+2022-07-26 15:42:43,086 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']  
+2022-07-26 15:42:43,088 root INFO We create a function to print the course available in Programming Tab  
+2022-07-26 15:42:43,088 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']  
+2022-07-26 15:42:43,088 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']  
+2022-07-26 15:42:43,088 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:42:43,088 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:42:43,088 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:42:43,088 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:42:43,088 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:42:43,088 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:42:43,089 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:42:43,089 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:42:43,090 root INFO Print the course details in One Neuron  
+2022-07-26 15:42:43,090 root INFO Print the course & Price Details in Tech Neuron  
+2022-07-26 15:42:43,090 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x000001B555735850>>  
+2022-07-26 15:42:43,090 root INFO The Tech couse is Tech Neuron and price is 25000  
+2022-07-26 15:42:43,091 root INFO Tech Neuron  
+2022-07-26 15:42:43,092 root INFO Print the avaiable job in job portal  
+2022-07-26 15:42:43,092 root INFO Print the Job details   
+2022-07-26 15:42:43,092 root INFO None  
+2022-07-26 15:42:43,093 root INFO Print the internship course  
+2022-07-26 15:42:43,094 root INFO list5  
+2022-07-26 15:42:43,094 root INFO ['python', 'ML', 'DL', 'CV']  
+2022-07-26 15:42:43,095 root INFO check the successfully story on hall of fame  
+2022-07-26 15:42:43,095 root INFO Read the blog  
+2022-07-26 15:42:43,095 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile  
+2022-07-26 15:42:43,096 root INFO None  
+2022-07-26 15:42:43,096 root INFO Read the blog on our website  
+2022-07-26 15:42:43,096 root INFO None  
+2022-07-26 15:42:43,097 root INFO Become a affiliate  
+2022-07-26 15:42:43,097 root INFO Attain Financial freedom and joining the affiliate program.  
+2022-07-26 15:42:43,097 root INFO None  
+2022-07-26 15:42:43,098 root INFO Create a function to print the company name.  
+2022-07-26 15:42:43,098 root INFO ('The company name is', 'Ineuron')  
+2022-07-26 15:42:43,098 root INFO Create a function to print the contact details of company.  
+2022-07-26 15:42:43,098 root INFO ('You can reach out to us', ['17th floor Tower A, Brigade Signature Towers, Sannatammanahalli, Bengaluru, Karnataka 562129.', '+91 87885-03778', 'contact@ineuron.ai'])  
+2022-07-26 15:42:43,098 root INFO Create a function to read about the company.  
+2022-07-26 15:42:43,098 root INFO ('Read about us', 'iNeuron started as a product development company, then launched its ed-tech division. We provide 360 degree solutions from learning to internship to finding a job, and the first ever educational OTT platform to upgrade your skill set.')  
+2022-07-26 15:42:43,098 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:42:43,098 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:42:43,098 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:42:43,099 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:42:43,099 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:42:43,099 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:42:43,099 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:42:43,099 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:42:43,099 root INFO Read the blog on our website  
+2022-07-26 15:42:43,099 root INFO None  
+2022-07-26 15:42:43,099 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile  
+2022-07-26 15:42:43,099 root INFO None  
+2022-07-26 15:42:43,099 root INFO list5  
+2022-07-26 15:42:43,099 root INFO ['python', 'ML', 'DL', 'CV']  
+2022-07-26 15:48:23,283 root INFO Create a Function to print the Data Science Course  
+2022-07-26 15:48:23,284 root INFO create a function to print all the course available in Big Data  
+2022-07-26 15:48:23,285 root INFO ['Big Data Master', 'Big Data on Cloud']  
+2022-07-26 15:48:23,285 root INFO ['Big Data Master', 'Big Data on Cloud']  
+2022-07-26 15:48:23,285 root INFO Create a function to print all the course avaiable in Data Analytics tab  
+2022-07-26 15:48:23,286 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']  
+2022-07-26 15:48:23,286 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']  
+2022-07-26 15:48:23,286 root INFO We create a function to print the course available in Programming Tab  
+2022-07-26 15:48:23,287 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']  
+2022-07-26 15:48:23,287 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']  
+2022-07-26 15:48:23,287 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:48:23,287 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:48:23,287 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:48:23,287 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:48:23,287 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:48:23,287 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:48:23,287 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:48:23,287 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:48:23,289 root INFO Print the course details in One Neuron  
+2022-07-26 15:48:23,289 root INFO Print the course & Price Details in Tech Neuron  
+2022-07-26 15:48:23,289 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x00000210B5CD1DC0>>  
+2022-07-26 15:48:23,289 root INFO The Tech couse is Tech Neuron and price is 25000  
+2022-07-26 15:48:23,289 root INFO Tech Neuron  
+2022-07-26 15:48:23,290 root INFO Print the avaiable job in job portal  
+2022-07-26 15:48:23,290 root INFO Print the Job details   
+2022-07-26 15:48:23,290 root INFO None  
+2022-07-26 15:48:23,291 root INFO Print the internship course  
+2022-07-26 15:48:23,291 root INFO list5  
+2022-07-26 15:48:23,291 root INFO ['python', 'ML', 'DL', 'CV']  
+2022-07-26 15:48:23,292 root INFO check the successfully story on hall of fame  
+2022-07-26 15:48:23,292 root INFO Read the blog  
+2022-07-26 15:48:23,292 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile  
+2022-07-26 15:48:23,292 root INFO None  
+2022-07-26 15:48:23,292 root INFO Read the blog on our website  
+2022-07-26 15:48:23,293 root INFO None  
+2022-07-26 15:48:23,296 root INFO Become a affiliate  
+2022-07-26 15:48:23,296 root INFO Attain Financial freedom and joining the affiliate program.  
+2022-07-26 15:48:23,296 root INFO None  
+2022-07-26 15:48:23,297 root INFO Create a function to print the company name.  
+2022-07-26 15:48:23,297 root INFO ('The company name is', 'Ineuron')  
+2022-07-26 15:48:23,297 root INFO Create a function to print the contact details of company.  
+2022-07-26 15:48:23,297 root INFO ('You can reach out to us', ['17th floor Tower A, Brigade Signature Towers, Sannatammanahalli, Bengaluru, Karnataka 562129.', '+91 87885-03778', 'contact@ineuron.ai'])  
+2022-07-26 15:48:23,297 root INFO Create a function to read about the company.  
+2022-07-26 15:48:23,297 root INFO ('Read about us', 'iNeuron started as a product development company, then launched its ed-tech division. We provide 360 degree solutions from learning to internship to finding a job, and the first ever educational OTT platform to upgrade your skill set.')  
+2022-07-26 15:48:23,297 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:48:23,297 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:48:23,297 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:48:23,297 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:48:23,297 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:48:23,297 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:48:23,297 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:48:23,298 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:48:23,298 root INFO Read the blog on our website  
+2022-07-26 15:48:23,298 root INFO None  
+2022-07-26 15:48:23,298 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile  
+2022-07-26 15:48:23,298 root INFO None  
+2022-07-26 15:48:23,298 root INFO list5  
+2022-07-26 15:48:23,298 root INFO ['python', 'ML', 'DL', 'CV']  
+2022-07-26 15:48:23,298 root INFO Attain Financial freedom and joining the affiliate program.  
+2022-07-26 15:48:23,299 root INFO None  
+2022-07-26 15:50:14,478 root INFO Create a Function to print the Data Science Course  
+2022-07-26 15:50:14,479 root INFO create a function to print all the course available in Big Data  
+2022-07-26 15:50:14,479 root INFO ['Big Data Master', 'Big Data on Cloud']  
+2022-07-26 15:50:14,479 root INFO ['Big Data Master', 'Big Data on Cloud']  
+2022-07-26 15:50:14,480 root INFO Create a function to print all the course avaiable in Data Analytics tab  
+2022-07-26 15:50:14,480 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']  
+2022-07-26 15:50:14,480 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']  
+2022-07-26 15:50:14,481 root INFO We create a function to print the course available in Programming Tab  
+2022-07-26 15:50:14,481 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']  
+2022-07-26 15:50:14,481 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']  
+2022-07-26 15:50:14,481 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:50:14,481 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:50:14,481 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:50:14,482 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:50:14,482 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:50:14,482 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:50:14,482 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:50:14,482 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:50:14,483 root INFO Print the course details in One Neuron  
+2022-07-26 15:50:14,483 root INFO Print the course & Price Details in Tech Neuron  
+2022-07-26 15:50:14,483 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x00000153626F5970>>  
+2022-07-26 15:50:14,483 root INFO The Tech couse is Tech Neuron and price is 25000  
+2022-07-26 15:50:14,483 root INFO Tech Neuron  
+2022-07-26 15:50:14,484 root INFO Print the avaiable job in job portal  
+2022-07-26 15:50:14,485 root INFO Print the Job details   
+2022-07-26 15:50:14,485 root INFO None  
+2022-07-26 15:50:14,486 root INFO Print the internship course  
+2022-07-26 15:50:14,486 root INFO list5  
+2022-07-26 15:50:14,486 root INFO ['python', 'ML', 'DL', 'CV']  
+2022-07-26 15:50:14,487 root INFO check the successfully story on hall of fame  
+2022-07-26 15:50:14,487 root INFO Read the blog  
+2022-07-26 15:50:14,487 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile  
+2022-07-26 15:50:14,487 root INFO None  
+2022-07-26 15:50:14,487 root INFO Read the blog on our website  
+2022-07-26 15:50:14,487 root INFO None  
+2022-07-26 15:50:14,488 root INFO Become a affiliate  
+2022-07-26 15:50:14,488 root INFO Attain Financial freedom and joining the affiliate program.  
+2022-07-26 15:50:14,488 root INFO None  
+2022-07-26 15:50:14,489 root INFO Create a function to print the company name.  
+2022-07-26 15:50:14,489 root INFO ('The company name is', 'Ineuron')  
+2022-07-26 15:50:14,489 root INFO Create a function to print the contact details of company.  
+2022-07-26 15:50:14,489 root INFO ('You can reach out to us', ['17th floor Tower A, Brigade Signature Towers, Sannatammanahalli, Bengaluru, Karnataka 562129.', '+91 87885-03778', 'contact@ineuron.ai'])  
+2022-07-26 15:50:14,489 root INFO Create a function to read about the company.  
+2022-07-26 15:50:14,489 root INFO ('Read about us', 'iNeuron started as a product development company, then launched its ed-tech division. We provide 360 degree solutions from learning to internship to finding a job, and the first ever educational OTT platform to upgrade your skill set.')  
+2022-07-26 15:50:14,489 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:50:14,489 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:50:14,489 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:50:14,489 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:50:14,489 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:50:14,489 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:50:14,490 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:50:14,490 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:50:14,490 root INFO Read the blog on our website  
+2022-07-26 15:50:14,490 root INFO None  
+2022-07-26 15:50:14,490 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile  
+2022-07-26 15:50:14,490 root INFO None  
+2022-07-26 15:50:14,490 root INFO list5  
+2022-07-26 15:50:14,490 root INFO ['python', 'ML', 'DL', 'CV']  
+2022-07-26 15:50:14,490 root INFO Attain Financial freedom and joining the affiliate program.  
+2022-07-26 15:50:14,490 root INFO None  
+2022-07-26 15:50:14,490 root INFO Print the Job details   
+2022-07-26 15:50:14,490 root INFO None  
+2022-07-26 15:51:02,403 root INFO Create a Function to print the Data Science Course  
+2022-07-26 15:51:02,404 root INFO create a function to print all the course available in Big Data  
+2022-07-26 15:51:02,404 root INFO ['Big Data Master', 'Big Data on Cloud']  
+2022-07-26 15:51:02,404 root INFO ['Big Data Master', 'Big Data on Cloud']  
+2022-07-26 15:51:02,405 root INFO Create a function to print all the course avaiable in Data Analytics tab  
+2022-07-26 15:51:02,405 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']  
+2022-07-26 15:51:02,405 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']  
+2022-07-26 15:51:02,406 root INFO We create a function to print the course available in Programming Tab  
+2022-07-26 15:51:02,406 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']  
+2022-07-26 15:51:02,406 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']  
+2022-07-26 15:51:02,406 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:51:02,406 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:51:02,407 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:51:02,407 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:51:02,407 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:51:02,407 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:51:02,408 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:51:02,408 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:51:02,409 root INFO Print the course details in One Neuron  
+2022-07-26 15:51:02,409 root INFO Print the course & Price Details in Tech Neuron  
+2022-07-26 15:51:02,410 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x000001E0CB722A00>>  
+2022-07-26 15:51:02,410 root INFO The Tech couse is Tech Neuron and price is 25000  
+2022-07-26 15:51:02,410 root INFO Tech Neuron  
+2022-07-26 15:51:02,412 root INFO Print the avaiable job in job portal  
+2022-07-26 15:51:02,412 root INFO Print the Job details   
+2022-07-26 15:51:02,413 root INFO None  
+2022-07-26 15:51:02,415 root INFO Print the internship course  
+2022-07-26 15:51:02,415 root INFO list5  
+2022-07-26 15:51:02,416 root INFO ['python', 'ML', 'DL', 'CV']  
+2022-07-26 15:51:02,418 root INFO check the successfully story on hall of fame  
+2022-07-26 15:51:02,419 root INFO Read the blog  
+2022-07-26 15:51:02,419 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile  
+2022-07-26 15:51:02,420 root INFO None  
+2022-07-26 15:51:02,420 root INFO Read the blog on our website  
+2022-07-26 15:51:02,420 root INFO None  
+2022-07-26 15:51:02,423 root INFO Become a affiliate  
+2022-07-26 15:51:02,423 root INFO Attain Financial freedom and joining the affiliate program.  
+2022-07-26 15:51:02,424 root INFO None  
+2022-07-26 15:51:02,424 root INFO Create a function to print the company name.  
+2022-07-26 15:51:02,425 root INFO ('The company name is', 'Ineuron')  
+2022-07-26 15:51:02,425 root INFO Create a function to print the contact details of company.  
+2022-07-26 15:51:02,425 root INFO ('You can reach out to us', ['17th floor Tower A, Brigade Signature Towers, Sannatammanahalli, Bengaluru, Karnataka 562129.', '+91 87885-03778', 'contact@ineuron.ai'])  
+2022-07-26 15:51:02,426 root INFO Create a function to read about the company.  
+2022-07-26 15:51:02,426 root INFO ('Read about us', 'iNeuron started as a product development company, then launched its ed-tech division. We provide 360 degree solutions from learning to internship to finding a job, and the first ever educational OTT platform to upgrade your skill set.')  
+2022-07-26 15:51:02,426 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:51:02,426 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:51:02,427 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:51:02,427 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:51:02,427 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:51:02,428 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:51:02,428 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:51:02,428 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:51:02,428 root INFO Read the blog on our website  
+2022-07-26 15:51:02,428 root INFO None  
+2022-07-26 15:51:02,429 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile  
+2022-07-26 15:51:02,429 root INFO None  
+2022-07-26 15:51:02,429 root INFO list5  
+2022-07-26 15:51:02,429 root INFO ['python', 'ML', 'DL', 'CV']  
+2022-07-26 15:51:02,429 root INFO Attain Financial freedom and joining the affiliate program.  
+2022-07-26 15:51:02,430 root INFO None  
+2022-07-26 15:51:02,430 root INFO Print the Job details   
+2022-07-26 15:51:02,430 root INFO None  
+2022-07-26 15:51:02,430 root INFO The Tech couse is Tech Neuron and price is 25000  
+2022-07-26 15:51:02,430 root INFO Tech Neuron  
+2022-07-26 15:52:45,816 root INFO Create a Function to print the Data Science Course  
+2022-07-26 15:52:45,817 root INFO create a function to print all the course available in Big Data  
+2022-07-26 15:52:45,817 root INFO ['Big Data Master', 'Big Data on Cloud']  
+2022-07-26 15:52:45,817 root INFO ['Big Data Master', 'Big Data on Cloud']  
+2022-07-26 15:52:45,818 root INFO Create a function to print all the course avaiable in Data Analytics tab  
+2022-07-26 15:52:45,818 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']  
+2022-07-26 15:52:45,818 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']  
+2022-07-26 15:52:45,819 root INFO We create a function to print the course available in Programming Tab  
+2022-07-26 15:52:45,819 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']  
+2022-07-26 15:52:45,819 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']  
+2022-07-26 15:52:45,819 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:52:45,819 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:52:45,819 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:52:45,819 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:52:45,819 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:52:45,819 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:52:45,819 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:52:45,820 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:52:45,820 root INFO Print the course details in One Neuron  
+2022-07-26 15:52:45,820 root INFO Print the course & Price Details in Tech Neuron  
+2022-07-26 15:52:45,821 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x000001859DAC2A00>>  
+2022-07-26 15:52:45,821 root INFO The Tech couse is Tech Neuron and price is 25000  
+2022-07-26 15:52:45,821 root INFO Tech Neuron  
+2022-07-26 15:52:45,822 root INFO Print the avaiable job in job portal  
+2022-07-26 15:52:45,822 root INFO Print the Job details   
+2022-07-26 15:52:45,822 root INFO None  
+2022-07-26 15:52:45,823 root INFO Print the internship course  
+2022-07-26 15:52:45,823 root INFO list5  
+2022-07-26 15:52:45,823 root INFO ['python', 'ML', 'DL', 'CV']  
+2022-07-26 15:52:45,824 root INFO check the successfully story on hall of fame  
+2022-07-26 15:52:45,824 root INFO Read the blog  
+2022-07-26 15:52:45,824 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile  
+2022-07-26 15:52:45,824 root INFO None  
+2022-07-26 15:52:45,824 root INFO Read the blog on our website  
+2022-07-26 15:52:45,824 root INFO None  
+2022-07-26 15:52:45,825 root INFO Become a affiliate  
+2022-07-26 15:52:45,825 root INFO Attain Financial freedom and joining the affiliate program.  
+2022-07-26 15:52:45,825 root INFO None  
+2022-07-26 15:52:45,825 root INFO Create a function to print the company name.  
+2022-07-26 15:52:45,825 root INFO ('The company name is', 'Ineuron')  
+2022-07-26 15:52:45,825 root INFO Create a function to print the contact details of company.  
+2022-07-26 15:52:45,825 root INFO ('You can reach out to us', ['17th floor Tower A, Brigade Signature Towers, Sannatammanahalli, Bengaluru, Karnataka 562129.', '+91 87885-03778', 'contact@ineuron.ai'])  
+2022-07-26 15:52:45,826 root INFO Create a function to read about the company.  
+2022-07-26 15:52:45,826 root INFO ('Read about us', 'iNeuron started as a product development company, then launched its ed-tech division. We provide 360 degree solutions from learning to internship to finding a job, and the first ever educational OTT platform to upgrade your skill set.')  
+2022-07-26 15:52:45,826 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:52:45,826 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:52:45,826 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:52:45,826 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:52:45,826 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:52:45,826 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:52:45,826 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:52:45,826 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']  
+2022-07-26 15:52:45,826 root INFO Read the blog on our website  
+2022-07-26 15:52:45,826 root INFO None  
+2022-07-26 15:52:45,826 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile  
+2022-07-26 15:52:45,826 root INFO None  
+2022-07-26 15:52:45,827 root INFO list5  
+2022-07-26 15:52:45,827 root INFO ['python', 'ML', 'DL', 'CV']  
+2022-07-26 15:52:45,827 root INFO Attain Financial freedom and joining the affiliate program.  
+2022-07-26 15:52:45,827 root INFO None  
+2022-07-26 15:52:45,827 root INFO Print the Job details   
+2022-07-26 15:52:45,827 root INFO None  
+2022-07-26 15:52:45,827 root INFO The Tech couse is Tech Neuron and price is 25000  
+2022-07-26 15:52:45,827 root INFO Tech Neuron  

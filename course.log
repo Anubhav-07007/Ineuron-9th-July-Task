@@ -1,0 +1,392 @@
+2022-07-26 15:03:41,158 root INFO Create a Function to print the Data Science Course
+2022-07-26 15:03:41,159 root INFO create a function to print all the course available in Big Data
+2022-07-26 15:03:41,159 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:03:41,159 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:03:41,160 root INFO Create a function to print all the course avaiable in Data Analytics tab
+2022-07-26 15:03:41,160 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:03:41,160 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:03:41,165 root INFO We create a function to print the course available in Programming Tab
+2022-07-26 15:03:41,165 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:03:41,165 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:03:41,165 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:03:41,165 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:03:41,165 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:03:41,165 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:03:41,165 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:03:41,165 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:03:41,166 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:03:41,166 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:04:56,432 root INFO Create a Function to print the Data Science Course
+2022-07-26 15:04:56,433 root INFO create a function to print all the course available in Big Data
+2022-07-26 15:04:56,433 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:04:56,433 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:04:56,434 root INFO Create a function to print all the course avaiable in Data Analytics tab
+2022-07-26 15:04:56,434 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:04:56,434 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:04:56,435 root INFO We create a function to print the course available in Programming Tab
+2022-07-26 15:04:56,435 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:04:56,435 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:04:56,435 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:04:56,435 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:04:56,435 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:04:56,435 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:04:56,435 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:04:56,435 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:04:56,435 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:04:56,435 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:06:26,039 root INFO Create a Function to print the Data Science Course
+2022-07-26 15:06:26,040 root INFO create a function to print all the course available in Big Data
+2022-07-26 15:06:26,041 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:06:26,041 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:06:26,042 root INFO Create a function to print all the course avaiable in Data Analytics tab
+2022-07-26 15:06:26,042 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:06:26,042 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:06:26,043 root INFO We create a function to print the course available in Programming Tab
+2022-07-26 15:06:26,043 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:06:26,043 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:06:26,043 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:06:26,043 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:06:26,043 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:06:26,043 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:06:26,043 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:06:26,043 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:06:26,044 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:06:26,044 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:06:36,936 root INFO Create a Function to print the Data Science Course
+2022-07-26 15:06:36,937 root INFO create a function to print all the course available in Big Data
+2022-07-26 15:06:36,937 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:06:36,937 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:06:36,938 root INFO Create a function to print all the course avaiable in Data Analytics tab
+2022-07-26 15:06:36,938 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:06:36,938 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:06:36,939 root INFO We create a function to print the course available in Programming Tab
+2022-07-26 15:06:36,939 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:06:36,939 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:06:36,939 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:06:36,939 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:06:36,939 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:06:36,939 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:06:36,939 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:06:36,940 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:06:36,940 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:06:36,940 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:07,664 root INFO Create a Function to print the Data Science Course
+2022-07-26 15:12:07,665 root INFO create a function to print all the course available in Big Data
+2022-07-26 15:12:07,666 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:12:07,666 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:12:07,666 root INFO Create a function to print all the course avaiable in Data Analytics tab
+2022-07-26 15:12:07,667 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:12:07,667 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:12:07,667 root INFO We create a function to print the course available in Programming Tab
+2022-07-26 15:12:07,668 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:12:07,668 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:12:07,668 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:07,668 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:07,668 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:07,668 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:07,668 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:07,668 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:07,668 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:07,668 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:07,672 root INFO Print the course details in One Neuron
+2022-07-26 15:12:07,673 root INFO Print the course & Price Details in Tech Neuron
+2022-07-26 15:12:07,673 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x000001C9F29E9C40>>
+2022-07-26 15:12:07,673 root INFO The Tech couse is Tech Neuron and price is 25000
+2022-07-26 15:12:07,673 root INFO None
+2022-07-26 15:12:07,673 root INFO The couse is <bound method one_neuron.Kids of <__main__.Company object at 0x000001C9F26A0FD0>> and price is 7080
+2022-07-26 15:12:20,093 root INFO Create a Function to print the Data Science Course
+2022-07-26 15:12:20,094 root INFO create a function to print all the course available in Big Data
+2022-07-26 15:12:20,094 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:12:20,094 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:12:20,095 root INFO Create a function to print all the course avaiable in Data Analytics tab
+2022-07-26 15:12:20,095 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:12:20,095 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:12:20,096 root INFO We create a function to print the course available in Programming Tab
+2022-07-26 15:12:20,096 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:12:20,096 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:12:20,096 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:20,096 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:20,096 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:20,096 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:20,096 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:20,097 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:20,097 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:20,097 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:20,097 root INFO Print the course details in One Neuron
+2022-07-26 15:12:20,098 root INFO Print the course & Price Details in Tech Neuron
+2022-07-26 15:12:20,098 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x000001AB7C640B50>>
+2022-07-26 15:12:20,098 root INFO The Tech couse is Tech Neuron and price is 25000
+2022-07-26 15:12:20,098 root INFO None
+2022-07-26 15:12:20,098 root INFO The couse is <bound method one_neuron.Kids of <__main__.Company object at 0x000001AB7C640FD0>> and price is 7080
+2022-07-26 15:12:57,521 root INFO Create a Function to print the Data Science Course
+2022-07-26 15:12:57,522 root INFO create a function to print all the course available in Big Data
+2022-07-26 15:12:57,522 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:12:57,523 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:12:57,524 root INFO Create a function to print all the course avaiable in Data Analytics tab
+2022-07-26 15:12:57,524 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:12:57,524 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:12:57,525 root INFO We create a function to print the course available in Programming Tab
+2022-07-26 15:12:57,526 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:12:57,526 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:12:57,526 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:57,526 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:57,526 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:57,527 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:57,527 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:57,527 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:57,527 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:57,527 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:12:57,534 root INFO Print the course details in One Neuron
+2022-07-26 15:12:57,535 root INFO Print the course & Price Details in Tech Neuron
+2022-07-26 15:12:57,535 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x0000017A1AA19C70>>
+2022-07-26 15:12:57,535 root INFO The Tech couse is Tech Neuron and price is 25000
+2022-07-26 15:12:57,535 root INFO None
+2022-07-26 15:12:57,535 root INFO The couse is <bound method one_neuron.Kids of <__main__.Company object at 0x0000017A1A6D0FD0>> and price is 7080
+2022-07-26 15:13:15,386 root INFO Create a Function to print the Data Science Course
+2022-07-26 15:13:15,387 root INFO create a function to print all the course available in Big Data
+2022-07-26 15:13:15,387 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:13:15,388 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:13:15,388 root INFO Create a function to print all the course avaiable in Data Analytics tab
+2022-07-26 15:13:15,388 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:13:15,388 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:13:15,389 root INFO We create a function to print the course available in Programming Tab
+2022-07-26 15:13:15,389 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:13:15,389 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:13:15,390 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:13:15,390 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:13:15,390 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:13:15,390 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:13:15,390 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:13:15,390 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:13:15,390 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:13:15,390 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:13:15,391 root INFO Print the course details in One Neuron
+2022-07-26 15:13:15,391 root INFO Print the course & Price Details in Tech Neuron
+2022-07-26 15:13:15,391 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x0000028D31B1E970>>
+2022-07-26 15:13:15,391 root INFO The Tech couse is Tech Neuron and price is 25000
+2022-07-26 15:13:15,391 root INFO None
+2022-07-26 15:13:15,391 root INFO The couse is <bound method one_neuron.Kids of <__main__.Company object at 0x0000028D31B20FD0>> and price is 7080
+2022-07-26 15:14:07,343 root INFO Create a Function to print the Data Science Course
+2022-07-26 15:14:07,344 root INFO create a function to print all the course available in Big Data
+2022-07-26 15:14:07,344 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:14:07,344 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:14:07,345 root INFO Create a function to print all the course avaiable in Data Analytics tab
+2022-07-26 15:14:07,345 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:14:07,345 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:14:07,346 root INFO We create a function to print the course available in Programming Tab
+2022-07-26 15:14:07,346 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:14:07,346 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:14:07,347 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:14:07,347 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:14:07,347 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:14:07,347 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:14:07,347 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:14:07,347 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:14:07,347 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:14:07,347 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:14:07,351 root INFO Print the course details in One Neuron
+2022-07-26 15:14:07,352 root INFO Print the course & Price Details in Tech Neuron
+2022-07-26 15:14:07,352 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x00000258C934AFA0>>
+2022-07-26 15:14:07,352 root INFO The Tech couse is Tech Neuron and price is 25000
+2022-07-26 15:14:07,352 root INFO Tech Neuron
+2022-07-26 15:14:07,352 root INFO The couse is <bound method one_neuron.Kids of <__main__.Company object at 0x00000258C9000FD0>> and price is 7080
+2022-07-26 15:14:20,523 root INFO Create a Function to print the Data Science Course
+2022-07-26 15:14:20,525 root INFO create a function to print all the course available in Big Data
+2022-07-26 15:14:20,525 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:14:20,525 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:14:20,526 root INFO Create a function to print all the course avaiable in Data Analytics tab
+2022-07-26 15:14:20,526 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:14:20,526 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:14:20,527 root INFO We create a function to print the course available in Programming Tab
+2022-07-26 15:14:20,527 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:14:20,527 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:14:20,527 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:14:20,527 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:14:20,527 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:14:20,527 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:14:20,527 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:14:20,527 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:14:20,527 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:14:20,528 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:14:20,529 root INFO Print the course details in One Neuron
+2022-07-26 15:14:20,529 root INFO Print the course & Price Details in Tech Neuron
+2022-07-26 15:14:20,529 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x000001E8FE0C1EB0>>
+2022-07-26 15:14:20,530 root INFO The Tech couse is Tech Neuron and price is 25000
+2022-07-26 15:14:20,530 root INFO Tech Neuron
+2022-07-26 15:14:20,530 root INFO The couse is <bound method one_neuron.Kids of <__main__.Company object at 0x000001E8FE0D0FD0>> and price is 7080
+2022-07-26 15:14:20,530 root INFO The Tech couse is Tech Neuron and price is 25000
+2022-07-26 15:16:19,442 root INFO Create a Function to print the Data Science Course
+2022-07-26 15:16:19,443 root INFO create a function to print all the course available in Big Data
+2022-07-26 15:16:19,443 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:16:19,443 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:16:19,444 root INFO Create a function to print all the course avaiable in Data Analytics tab
+2022-07-26 15:16:19,444 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:16:19,444 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:16:19,445 root INFO We create a function to print the course available in Programming Tab
+2022-07-26 15:16:19,445 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:16:19,445 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:16:19,445 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:16:19,445 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:16:19,445 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:16:19,445 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:16:19,445 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:16:19,445 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:16:19,446 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:16:19,446 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:16:19,446 root INFO Print the course details in One Neuron
+2022-07-26 15:16:19,447 root INFO Print the course & Price Details in Tech Neuron
+2022-07-26 15:16:19,447 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x0000016902D90AC0>>
+2022-07-26 15:16:19,447 root INFO The Tech couse is Tech Neuron and price is 25000
+2022-07-26 15:16:19,447 root INFO Tech Neuron
+2022-07-26 15:16:19,451 root INFO Print the avaiable job in job portal
+2022-07-26 15:16:19,451 root INFO Print the Job details 
+2022-07-26 15:16:19,451 root INFO None
+2022-07-26 15:16:19,452 root INFO The couse is <bound method one_neuron.Kids of <__main__.Company object at 0x0000016902D90FD0>> and price is 7080
+2022-07-26 15:16:19,452 root INFO The Tech couse is Tech Neuron and price is 25000
+2022-07-26 15:16:19,452 root INFO Print the Job details 
+2022-07-26 15:16:30,089 root INFO Create a Function to print the Data Science Course
+2022-07-26 15:16:30,090 root INFO create a function to print all the course available in Big Data
+2022-07-26 15:16:30,090 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:16:30,090 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:16:30,091 root INFO Create a function to print all the course avaiable in Data Analytics tab
+2022-07-26 15:16:30,091 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:16:30,092 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:16:30,093 root INFO We create a function to print the course available in Programming Tab
+2022-07-26 15:16:30,093 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:16:30,093 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:16:30,093 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:16:30,093 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:16:30,093 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:16:30,093 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:16:30,093 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:16:30,093 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:16:30,093 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:16:30,094 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:16:30,094 root INFO Print the course details in One Neuron
+2022-07-26 15:16:30,095 root INFO Print the course & Price Details in Tech Neuron
+2022-07-26 15:16:30,095 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x0000028561E30AC0>>
+2022-07-26 15:16:30,095 root INFO The Tech couse is Tech Neuron and price is 25000
+2022-07-26 15:16:30,095 root INFO Tech Neuron
+2022-07-26 15:16:30,096 root INFO Print the avaiable job in job portal
+2022-07-26 15:16:30,096 root INFO Print the Job details 
+2022-07-26 15:16:30,096 root INFO None
+2022-07-26 15:16:30,096 root INFO The couse is <bound method one_neuron.Kids of <__main__.Company object at 0x0000028561E30FD0>> and price is 7080
+2022-07-26 15:16:30,096 root INFO The Tech couse is Tech Neuron and price is 25000
+2022-07-26 15:16:30,096 root INFO Print the Job details 
+2022-07-26 15:18:05,897 root INFO Create a Function to print the Data Science Course
+2022-07-26 15:18:05,898 root INFO create a function to print all the course available in Big Data
+2022-07-26 15:18:05,899 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:18:05,899 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:18:05,900 root INFO Create a function to print all the course avaiable in Data Analytics tab
+2022-07-26 15:18:05,900 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:18:05,900 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:18:05,901 root INFO We create a function to print the course available in Programming Tab
+2022-07-26 15:18:05,901 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:18:05,901 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:18:05,901 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:18:05,901 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:18:05,901 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:18:05,902 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:18:05,902 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:18:05,902 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:18:05,902 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:18:05,903 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:18:05,905 root INFO Print the course details in One Neuron
+2022-07-26 15:18:05,905 root INFO Print the course & Price Details in Tech Neuron
+2022-07-26 15:18:05,905 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x000001F96F350A30>>
+2022-07-26 15:18:05,905 root INFO The Tech couse is Tech Neuron and price is 25000
+2022-07-26 15:18:05,905 root INFO Tech Neuron
+2022-07-26 15:18:05,906 root INFO Print the avaiable job in job portal
+2022-07-26 15:18:05,906 root INFO Print the Job details 
+2022-07-26 15:18:05,906 root INFO None
+2022-07-26 15:18:05,910 root INFO Print the internship course
+2022-07-26 15:18:05,911 root INFO list5
+2022-07-26 15:18:05,911 root INFO ['python', 'ML', 'DL', 'CV']
+2022-07-26 15:18:05,911 root INFO The couse is <bound method one_neuron.Kids of <__main__.Company object at 0x000001F96F350FD0>> and price is 7080
+2022-07-26 15:18:05,911 root INFO The Tech couse is Tech Neuron and price is 25000
+2022-07-26 15:18:05,911 root INFO Print the Job details 
+2022-07-26 15:18:05,911 root INFO list5
+2022-07-26 15:25:24,982 root INFO Create a Function to print the Data Science Course
+2022-07-26 15:25:24,983 root INFO create a function to print all the course available in Big Data
+2022-07-26 15:25:24,983 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:25:24,983 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:25:24,984 root INFO Create a function to print all the course avaiable in Data Analytics tab
+2022-07-26 15:25:24,985 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:25:24,985 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:25:24,986 root INFO We create a function to print the course available in Programming Tab
+2022-07-26 15:25:24,986 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:25:24,987 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:25:24,987 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:25:24,987 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:25:24,987 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:25:24,987 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:25:24,987 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:25:24,987 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:25:24,987 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:25:24,987 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:25:24,988 root INFO Print the course details in One Neuron
+2022-07-26 15:25:24,989 root INFO Print the course & Price Details in Tech Neuron
+2022-07-26 15:25:24,989 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x00000220CE470580>>
+2022-07-26 15:25:24,989 root INFO The Tech couse is Tech Neuron and price is 25000
+2022-07-26 15:25:24,989 root INFO Tech Neuron
+2022-07-26 15:25:24,990 root INFO Print the avaiable job in job portal
+2022-07-26 15:25:24,990 root INFO Print the Job details 
+2022-07-26 15:25:24,990 root INFO None
+2022-07-26 15:25:24,991 root INFO Print the internship course
+2022-07-26 15:25:24,991 root INFO list5
+2022-07-26 15:25:24,992 root INFO ['python', 'ML', 'DL', 'CV']
+2022-07-26 15:25:24,998 root INFO check the successfully story on hall of fame
+2022-07-26 15:25:24,998 root INFO Read the blog
+2022-07-26 15:25:24,998 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile
+2022-07-26 15:25:24,998 root INFO None
+2022-07-26 15:25:24,998 root INFO Read the blog on our website
+2022-07-26 15:25:24,998 root INFO None
+2022-07-26 15:25:24,999 root INFO The couse is <bound method one_neuron.Kids of <__main__.Company object at 0x00000220CE470FD0>> and price is 7080
+2022-07-26 15:25:24,999 root INFO The Tech couse is Tech Neuron and price is 25000
+2022-07-26 15:25:24,999 root INFO Print the Job details 
+2022-07-26 15:25:24,999 root INFO list5
+2022-07-26 15:25:24,999 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile
+2022-07-26 15:28:12,384 root INFO Create a Function to print the Data Science Course
+2022-07-26 15:28:12,385 root INFO create a function to print all the course available in Big Data
+2022-07-26 15:28:12,385 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:28:12,385 root INFO ['Big Data Master', 'Big Data on Cloud']
+2022-07-26 15:28:12,386 root INFO Create a function to print all the course avaiable in Data Analytics tab
+2022-07-26 15:28:12,386 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:28:12,386 root INFO ['Power Bi', 'Tableau', 'SQL', 'Excel']
+2022-07-26 15:28:12,387 root INFO We create a function to print the course available in Programming Tab
+2022-07-26 15:28:12,387 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:28:12,387 root INFO ['C++', 'C', 'Java', 'Hive', 'Scala', 'SQL', 'Python', 'R']
+2022-07-26 15:28:12,387 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:28:12,387 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:28:12,387 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:28:12,388 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:28:12,388 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:28:12,388 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:28:12,388 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:28:12,388 root INFO ['Full Stack Data Science', 'Python', 'Machine Learning', 'Deep Learning', 'Computer Vision']
+2022-07-26 15:28:12,389 root INFO Print the course details in One Neuron
+2022-07-26 15:28:12,389 root INFO Print the course & Price Details in Tech Neuron
+2022-07-26 15:28:12,389 root INFO <bound method one_neuron.Kids of <One_Neuron.one_neuron object at 0x000002105786F4F0>>
+2022-07-26 15:28:12,389 root INFO The Tech couse is Tech Neuron and price is 25000
+2022-07-26 15:28:12,389 root INFO Tech Neuron
+2022-07-26 15:28:12,390 root INFO Print the avaiable job in job portal
+2022-07-26 15:28:12,390 root INFO Print the Job details 
+2022-07-26 15:28:12,390 root INFO None
+2022-07-26 15:28:12,391 root INFO Print the internship course
+2022-07-26 15:28:12,391 root INFO list5
+2022-07-26 15:28:12,391 root INFO ['python', 'ML', 'DL', 'CV']
+2022-07-26 15:28:12,393 root INFO check the successfully story on hall of fame
+2022-07-26 15:28:12,393 root INFO Read the blog
+2022-07-26 15:28:12,393 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile
+2022-07-26 15:28:12,393 root INFO None
+2022-07-26 15:28:12,393 root INFO Read the blog on our website
+2022-07-26 15:28:12,393 root INFO None
+2022-07-26 15:28:12,397 root INFO Become a affiliate
+2022-07-26 15:28:12,398 root INFO Attain Financial freedom and joining the affiliate program.
+2022-07-26 15:28:12,398 root INFO None
+2022-07-26 15:28:12,398 root INFO The couse is <bound method one_neuron.Kids of <__main__.Company object at 0x000002105786FFD0>> and price is 7080
+2022-07-26 15:28:12,398 root INFO The Tech couse is Tech Neuron and price is 25000
+2022-07-26 15:28:12,398 root INFO Print the Job details 
+2022-07-26 15:28:12,398 root INFO list5
+2022-07-26 15:28:12,398 root INFO You can read the sucessfully story on hall of fame and you can reachout to person over linkdin profile
+2022-07-26 15:28:12,398 root INFO Attain Financial freedom and joining the affiliate program.

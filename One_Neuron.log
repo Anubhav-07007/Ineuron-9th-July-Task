@@ -1,0 +1,15 @@
+2022-07-26 15:10:02,376 root INFO Print the course details in One Neuron  
+2022-07-26 15:10:02,376 root INFO Print the course & Price Details in Tech Neuron  
+2022-07-26 15:10:02,377 root INFO <bound method one_neuron.Kids of <__main__.one_neuron object at 0x0000028FE80EFAC0>>  
+2022-07-26 15:10:02,377 root INFO The Tech couse is Tech Neuron and price is 25000  
+2022-07-26 15:10:02,377 root INFO None  
+2022-07-26 15:12:52,445 root INFO Print the course details in One Neuron  
+2022-07-26 15:12:52,445 root INFO Print the course & Price Details in Tech Neuron  
+2022-07-26 15:12:52,445 root INFO <bound method one_neuron.Kids of <__main__.one_neuron object at 0x00000297ED96FAC0>>  
+2022-07-26 15:12:52,445 root INFO The Tech couse is Tech Neuron and price is 25000  
+2022-07-26 15:12:52,445 root INFO None  
+2022-07-26 15:13:56,000 root INFO Print the course details in One Neuron  
+2022-07-26 15:13:56,001 root INFO Print the course & Price Details in Tech Neuron  
+2022-07-26 15:13:56,001 root INFO <bound method one_neuron.Kids of <__main__.one_neuron object at 0x000001E127A0FAC0>>  
+2022-07-26 15:13:56,001 root INFO The Tech couse is Tech Neuron and price is 25000  
+2022-07-26 15:13:56,001 root INFO Tech Neuron  
